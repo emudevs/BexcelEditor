@@ -1,0 +1,8 @@
+*.suo
+*.vs/
+*.config
+*.pdb
+Tests/*
+Sources/packages/*
+Sources/Bexcel Editor/bin/*
+Sources/Bexcel Editor/obj/*
